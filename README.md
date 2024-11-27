@@ -1,6 +1,6 @@
 # 👨🏿‍💻Adílio Modesto
 
-Olá, meu nome é Adílio Modesto, tenho 25 anos e sou natural de Ponte Nova - Minas Gerais. Concluí o ensino médio em 2017 e atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNOPAR.
+Olá, meu nome é Adílio Modesto, tenho 25 anos e sou natural de Ponte Nova - Minas Gerais. Concluí o ensino médio em 2017 e atualmente estou no 3º semestre de Análise e Desenvolvimento de Sistemas na UNOPAR.
 
 ---
 
